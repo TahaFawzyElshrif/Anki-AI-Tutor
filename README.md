@@ -1,13 +1,5 @@
 # Anki
 
-[![Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitects/anki/actions/workflows/ci.yml)
-[![Documentation](https://img.shields.io/badge/docs-dev--docs.ankiweb.net-blue)](https://dev-docs.ankiweb.net/en/latest/)
-[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ankitects_anki&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ankitects_anki)
-
-This repo contains the source code for the computer version of
-[Anki](https://apps.ankiweb.net).
-
-
 This repository contains a modified version of the source code for the computer version of [Anki](https://apps.ankiweb.net/), with an integrated AI-powered English vocabulary tutor.
 
 ## About
@@ -51,7 +43,7 @@ The AI assistant complements Anki's existing spaced repetition system; it does n
 - The interface is currently supported only on English.
 - The feature is only available on Windows (x86 architecture).
 
-For more technical details about the implementation, see the [AI Integration Documentation](docs-site/AI_INTEGRATION.md).
+For more technical details about the implementation, see the [AI Integration Documentation](docs/AI_INTEGRATION.md).
 
 ## Getting Started
 
