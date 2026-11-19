@@ -1,6 +1,12 @@
 # Anki
 
-[Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml) ([image](https://github.com/ankitects/anki/actions/workflows/ci.yml/badge.svg)) [Documentation](https://dev-docs.ankiweb.net/en/latest/) ([image](https://camo.githubusercontent.com/2148971773586ab9c0a3a818ba7be2e8b657cab7f9351a5f96307411912ce20b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f646f63732d6465762d2d646f63732e616e6b697765622e6e65742d626c7565)) [Coverage](https://sonarcloud.io/summary/new_code?id=ankitects_anki) ([image](https://camo.githubusercontent.com/fd2cbd0926a8e46683eb91962aa80828c58b227c144311b2d07293afd3c5a719/68747470733a2f2f736f6e6172636c6f75642e696f2f6170692f70726f6a6563745f6261646765732f6d6561737572653f70726f6a6563743d616e6b6974656374735f616e6b69))
+[![Build Status](https://github.com/ankitects/anki/actions/workflows/ci.yml/badge.svg)](https://github.com/ankitects/anki/actions/workflows/ci.yml)
+[![Documentation](https://img.shields.io/badge/docs-dev--docs.ankiweb.net-blue)](https://dev-docs.ankiweb.net/en/latest/)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=ankitects_anki&metric=coverage)](https://sonarcloud.io/summary/new_code?id=ankitects_anki)
+
+This repo contains the source code for the computer version of
+[Anki](https://apps.ankiweb.net).
+
 
 This repository contains a modified version of the source code for the computer version of [Anki](https://apps.ankiweb.net/), with an integrated AI-powered English vocabulary tutor.
 
